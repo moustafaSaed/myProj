@@ -5,3 +5,14 @@ h1 {
     color: #405;
     text-align: center;
 }
+h4 {
+    background-color: #405;
+    margin-top: 50px;
+    padding: 15px 25px;
+    border-radius: 5px;
+    border: 3px solid #fff;
+    color: #fff;
+    width: 30vw;
+    text-align: center;
+    margin: auto;
+}
