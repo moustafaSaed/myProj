@@ -15,7 +15,9 @@ h4 {
     width: 30vw;
     text-align: center;
     margin: auto;
+    cursor: pointer;
 }
 h4.a {
     background-color: teal;
+    background-color: #aaa;
 }
